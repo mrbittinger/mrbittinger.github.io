@@ -1,0 +1,5 @@
+When creating a file, use slashes to specify the directory. For example:
+
+Name the file:
+
+repositoryname/newfoldername/filename
